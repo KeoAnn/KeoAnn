@@ -1,0 +1,104 @@
+{
+   "logo":"https://od.lk/s/NjFfOTMyMzA1NjBf/aa.jpg",
+   "wallpaper":"https://深色壁纸.xxooo.cf/",
+   "sites":[
+{
+            "key": "csp_XYQHiker_jable",
+            "name": "🔞Jable",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/jable.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+{
+            "key": "csp_XYQHiker_tktube.com",
+            "name": "🔞TkTube",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+{
+            "key": "csp_XYQHiker_missav.com",
+            "name": "🔞MissAV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+{
+            "key": "csp_XYQHiker_njavtv.com",
+            "name": "🔞Njavtv",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/njavtv.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+{
+            "key": "csp_XYQHiker_18av",
+            "name": "🔞18AV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18av.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+{
+            "key": "csp_XYQHiker_黄色仓库123",
+            "name": "🔞黄色仓库",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+
+{
+         "key":"🈲🔞大地X资源站",
+         "name":"🈲🔞大地X资源站",
+         "type":0,
+         "api":"https://dadiapi.com/api.php/provide/vod/",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+    },
