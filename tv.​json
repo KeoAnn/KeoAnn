@@ -1,4 +1,4 @@
-{"logo":"https://od.lk/s/NjFfOTMyMzA1NjBf/aa.jpg","wallpaper":"https://深色壁纸.xxooo.cf/","sites":[
+{"logo":"http://epg.one/img/3047.png","wallpaper":"https://深色壁纸.xxooo.cf/","sites":[
 {"key":"drpy_js_ss直播","name":"ss直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","timeout":30},
 {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
 {"key":"91md.me","name":"91md.me","type":1,"api":"http://91md.me/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
