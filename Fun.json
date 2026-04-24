@@ -19,7 +19,7 @@
 			"timeout": 60,
 			"style": {
 				"type": "rect",
-				"ratio": 1.48
+				"ratio": 1.6
 			},
 			"api": "csp_GM",
 			"ext": {
@@ -125,7 +125,7 @@
 			"timeout": 60,
 			"style": {
 				"type": "rect",
-				"ratio": 1.49
+				"ratio": 1.6
 			},
 			"api": "csp_GM",
 			"ext": {
@@ -307,7 +307,7 @@
 			"timeout": 60,
 			"style": {
 				"type": "rect",
-				"ratio": 1.78
+				"ratio": 1.6
 			},
 			"api": "csp_GM",
 			"ext": {
