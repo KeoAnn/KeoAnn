@@ -3,24 +3,24 @@
    "logo":"https://i.ibb.co/KpM80tVW/39661b43228ec13d82cbb02a7289bc03960ef89642d1ba6797b2788c2b9bf2cb-0.jpg",
    "wallpaper":"https://i.ibb.co/Jj1hjStH/6e5ef45621934f5ec51e3b0b9eb9f0c073a7341025ca5588a1f9f7dff6d4df3e-0.jpg",
    "sites":[ 
-{"key":"csp_appysv2_美剧迷","name":"🐬美剧迷影视 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mj.zjtv.cc/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_免费影视","name":"🐬免费影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.229.120.180:88/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_乐云影视","name":"🐬乐云影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.leyun.tv/api.php/v1.vod"},
-{
-            "key": "csp_XYQHiker_爱迪影视",
-            "name": "🐬爱迪影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://9xi4o.tk/OneClickRun/MaooXP/aidi.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
+{                      
+      "key": "爱坤资源",
+      "name": "🐬爱坤资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {                    
+      "key": "艾旦资源",
+      "name": "🐬艾旦资源",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {                      
       "key": "量子",
       "name": "🐬量子",
