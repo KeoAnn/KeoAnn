@@ -1,6 +1,4 @@
  {     
-   "logo":"https://od.lk/s/NjFfOTMyMzA1NjBf/aa.jpg",
-   "wallpaper":"https://深色壁纸.xxooo.cf/",
    "sites":[
 		{
 			"key": "精品资源站",
@@ -74,7 +72,7 @@
 			"timeout": 60,
 			"style": {
 				"type": "rect",
-				"ratio": 1.48
+				"ratio": 1.78
 			},
 			"api": "csp_GM",
 			"ext": {
@@ -309,7 +307,7 @@
 			"timeout": 60,
 			"style": {
 				"type": "rect",
-				"ratio": 1.6
+				"ratio": 1.78
 			},
 			"api": "csp_GM",
 			"ext": {
@@ -1558,4 +1556,4 @@
 	],
 	"spider": "./jar/xbpq.jar",
 	"logo": "./img/pg.gif"
-}
+},
