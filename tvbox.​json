@@ -3,8 +3,8 @@
    "logo":"https://i.ibb.co/KpM80tVW/39661b43228ec13d82cbb02a7289bc03960ef89642d1ba6797b2788c2b9bf2cb-0.jpg",
    "wallpaper":"https://i.ibb.co/Jj1hjStH/6e5ef45621934f5ec51e3b0b9eb9f0c073a7341025ca5588a1f9f7dff6d4df3e-0.jpg",
    "sites":[
-{        
-          
+        
+        {  
             "key": "csp_XYQHiker_jable",
             "name": "🔞Jable",
             "type": 3,
@@ -213,7 +213,7 @@
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
-{
+    {         
             "key": "番外",
             "name": "🔞番外采集",
             "type": 1,
@@ -338,7 +338,6 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
    ],
-
    "doh":[
       {
          "name":"Google",
