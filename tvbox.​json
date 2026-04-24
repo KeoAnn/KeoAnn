@@ -59,8 +59,8 @@
             "api": "csp_XYQHiker",
             "jar": "https://files.catbox.moe/2vr6o9.png",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
             "style": {
                 "type": "rect",
@@ -181,9 +181,9 @@
     },
 {
             "key": "🈲🔞Xvideos.py",
-            "name": "🈲🔞Xvideos.py",
+            "name": "🈲🔞Eporner.py",
             "type": 3,
-            "api": "https://od.lk/s/NjFfMTEyNjA1NTkzXw/xvideo.py",
+            "api": "https://od.lk/s/NjFfMTEyNjA1NTkzXw/eporner.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -202,7 +202,7 @@
             "playerType": 2
     },
 {
-      "key": "kk",
+      "key": "91md.me",
       "name": "🔞91md.me",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/?ac=list",
