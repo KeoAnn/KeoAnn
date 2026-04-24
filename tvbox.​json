@@ -3,15 +3,17 @@
    "logo":"https://i.ibb.co/KpM80tVW/39661b43228ec13d82cbb02a7289bc03960ef89642d1ba6797b2788c2b9bf2cb-0.jpg",
    "wallpaper":"https://i.ibb.co/Jj1hjStH/6e5ef45621934f5ec51e3b0b9eb9f0c073a7341025ca5588a1f9f7dff6d4df3e-0.jpg",
    "sites":[
-      
 
-
-
-
-
-
+{"key":"drpy_js_MP4US","name":"MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_电影港","name":"电影港[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"美剧迷","name":"美剧迷","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"},
+{"key":"新6V","name":"新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"./lib/token.json$$$https://www.66ss.org$$$null$$$1"},
+{"key":"88js","name":"88看球","type":3,"api":"./lib/drpy.min.js","ext":"./js/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 
 {
+          
             "key": "csp_XYQHiker_jable",
             "name": "🔞Jable",
             "type": 3,
@@ -26,10 +28,6 @@
                 "ratio": 1.6
             }
         },
-
-
-
-        
         {
             "key": "JAVDAYTV",
             "name": "🔞JAVDAYTV",
@@ -45,17 +43,16 @@
                 "ratio": 1.6
             }
         },
-        
         {
-            "key": "csp_XYQHiker_xnxx",
-            "name": "🔞XNXX",
+            "key": "csp_XYQHiker_tktube.com",
+            "name": "🔞TkTube",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://files.catbox.moe/2vr6o9.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/xnxx.json",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -76,10 +73,6 @@
                 "ratio": 1.6
             }
         },
-        
-        
-        
-        
    {
             "key": "csp_XYQHiker_av6k",
             "name": "🔞JAV6K",
@@ -124,8 +117,7 @@
                 "type": "rect",
                 "ratio": 1.6
             }
-        },
-        
+        }, 
         {
             "key": "csp_XYQHiker_18av",
             "name": "🔞18AV",
@@ -141,9 +133,6 @@
                 "ratio": 1.6
             }
         },
-
-        
-        
         {
             "key": "csp_XYQHiker_黄色仓库123",
             "name": "🔞黄色仓库",
@@ -159,13 +148,6 @@
                 "ratio": 1.6
             }
         },
-
-
-
-
-
-
-
 {
             "key": "禁片天堂.py",
             "name": "🈲🔞禁片天堂.py",
@@ -176,13 +158,7 @@
             "api": "https://od.lk/s/NjFfMTE2ODE4OTc1Xw/kptt.py",
             "order_num": 5,
             "ext": ""
-        }, 
-
-
-
-
-
-
+        },
 {
             "key": "🈲🔞Pornhub.py",
             "name": "🈲🔞Pornhub.py",
@@ -194,12 +170,6 @@
             "filterable": 1,
             "playerType": 2
     },
-
-
-
-
-
-
 {
             "key": "🈲🔞Xvideos.py",
             "name": "🈲🔞Xvideos.py",
@@ -211,13 +181,6 @@
             "filterable": 1,
             "playerType": 2
     },
-
-
-
-
-
-
-
 {
             "key": "🈲🔞Xhamster.py",
             "name": "🈲🔞Xhamster.py",
@@ -229,15 +192,6 @@
             "filterable": 1,
             "playerType": 2
     },
-
-
-
-
-
-
-
-
-
 {
       "key": "kk",
       "name": "🔞❶",
@@ -247,10 +201,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
-   
-   
-   
     {
       "key": "xx",
       "name": "🔞❷",
@@ -259,14 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-
-
-
-
-
-
-
+    },
 {
          "key":"🈲🔞大地X资源站",
          "name":"🈲🔞大地X资源站",
@@ -276,32 +219,18 @@
          "filterable":0,
          "changeable":1
     },
-
-
-
-
-
 {
       "key": "555",
-      "name": "🔞小五
-",
+      "name": "🔞小五",
       "type": 0,
       "api": "https://155api.com/api.php/provide/vod/at/xml"
     },
-
-
-
-
-
 {
       "key": "alvin",
-      "name": "🔞Alvin
-",
+      "name": "🔞Alvin",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
-
-
 {
             "key": "番外",
             "name": "🔞番外采集",
@@ -358,16 +287,6 @@
                 "人兽性交"
             ]
         },
-
-
-
-
-
-
-
-
-
-
 {
       "key": "155",
       "name": "🔞福利采集",
@@ -387,19 +306,8 @@
       "quickSearch": 1,
       "filterable": 0
     }
-
-
-
-
-
    ],
    "lives":[
-
-
-        
-      
-
-
 {
       "name": "🌈 mytvsuper (Yang)  🌈",
       "type": 0,
@@ -407,9 +315,6 @@
       "url": "https://tv.iill.top/m3u/MyTV",
       "playerType": 1
     },
-
-
-
 {
             "name": "✨ JACK TV",
             "type": 0,
@@ -418,9 +323,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-
-
-
 {
             "name": "♒ TV123",
             "type": 0,
@@ -428,12 +330,7 @@
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, 
-
-
-
-
-
+        },
 {
             "name": "♎ 风云TV",
             "type": 0,
@@ -442,10 +339,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, 
-
-
-
-
 {
             "name": "🌠 宫殿TV",
             "type": 0,
@@ -453,11 +346,7 @@
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, 
-
-
-
-
+        },
 {
             "name": "♎ 易发TV",
             "type": 0,
@@ -466,11 +355,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
-
-
-   
-   
-   
    ],
    "doh":[
       {
