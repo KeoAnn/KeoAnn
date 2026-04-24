@@ -396,8 +396,8 @@
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-],
+        },
+     ],
     "parses": [ 
           {
              "name": "虾米解析",
