@@ -3,17 +3,8 @@
    "logo":"https://i.ibb.co/KpM80tVW/39661b43228ec13d82cbb02a7289bc03960ef89642d1ba6797b2788c2b9bf2cb-0.jpg",
    "wallpaper":"https://i.ibb.co/Jj1hjStH/6e5ef45621934f5ec51e3b0b9eb9f0c073a7341025ca5588a1f9f7dff6d4df3e-0.jpg",
    "sites":[
-
-   {                                   
-      "key": "AQY",
-      "name": "🐬爱奇艺｜追剧",
-      "type": 1,
-      "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-      "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+                                  
+   {"key":"新6V","name":"🐬新6V┃磁力","type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
     {                      
       "key": "量子",
       "name": "🐬量子",
