@@ -2,8 +2,31 @@
 {
    "logo":"https://i.ibb.co/KpM80tVW/39661b43228ec13d82cbb02a7289bc03960ef89642d1ba6797b2788c2b9bf2cb-0.jpg",
    "wallpaper":"https://i.ibb.co/Jj1hjStH/6e5ef45621934f5ec51e3b0b9eb9f0c073a7341025ca5588a1f9f7dff6d4df3e-0.jpg",
-   "sites":[       
-        {  
+   "sites":[
+         
+        {"key":"AQY",
+        "name":"🐬爱奇艺｜追剧",
+        "type":3,
+        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"},
+         {"key":"YK",
+        "name":"🐬优酷视频｜追剧",
+        "type":3,
+        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"},
+        {"key":"TX",
+        "name":"🐬腾讯视频｜追剧",
+        "type":3,
+        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"},
+{"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"haiwaikan","name":"海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+{"key":"乐视","name":"乐视","type":1,"api":"https://leshiapi.com/api.php/provide/vod","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"changeable":1},
+       {  
             "key": "csp_XYQHiker_jable",
             "name": "🔞Jable",
             "type": 3,
@@ -19,7 +42,7 @@
             }
         },
         {
-            "key": "TkTube",
+            "key": "csp_XYQHiker_tktube",
             "name": "🔞TkTube",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -160,18 +183,7 @@
             "filterable": 1,
             "playerType": 2
     },
-    {  
-            "key": "🈲🔞Xvideos.py",
-            "name": "🈲🔞Xvideos.py",
-            "type": 3,
-            "api": "https://od.lk/s/NjFfMTEyNjA1NTkzXw/xvideos.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-    },
-   {
+    {
             "key": "🈲🔞Xhamster.py",
             "name": "🈲🔞Xhamster.py",
             "type": 3,
