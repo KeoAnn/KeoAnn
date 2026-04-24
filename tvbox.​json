@@ -19,6 +19,21 @@
             }
         },
         {
+            "key": "TkTube",
+            "name": "🔞TkTube",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
             "key": "JAVDAYTV",
             "name": "🔞JAVDAYTV",
             "type": 3,
@@ -28,21 +43,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_missav.com",
-            "name": "🔞MissAV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -63,7 +63,7 @@
                 "ratio": 1.6
             }
         },
-       {       
+        {               
             "key": "csp_XYQHiker_av6k",
             "name": "🔞JAV6K",
             "type": 3,
@@ -160,7 +160,7 @@
             "filterable": 1,
             "playerType": 2
     },
-{
+    {  
             "key": "🈲🔞Xvideos.py",
             "name": "🈲🔞Xvideos.py",
             "type": 3,
@@ -171,7 +171,7 @@
             "filterable": 1,
             "playerType": 2
     },
-{
+   {
             "key": "🈲🔞Xhamster.py",
             "name": "🈲🔞Xhamster.py",
             "type": 3,
@@ -186,7 +186,7 @@
       "key": "91md.me",
       "name": "🔞91md.me",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/?ac=list",
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
