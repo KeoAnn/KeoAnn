@@ -296,8 +296,8 @@
 			}
 		},
 		{
-			"key": "XOJAV",
-			"name": "XOJAV",
+			"key": "TkTube",
+			"name": "TkTube",
 			"jar": "./jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
@@ -311,7 +311,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/xojav.user.js",
+				"userScript": "./js/tktube.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
@@ -328,16 +328,16 @@
 				},
 				"spider": {
 					"homeContent": {
-						"loadUrl": "https://xojav.tv/?lang=zh"
+						"loadUrl": "https://tktube.com/?lang=zh"
 					},
 					"categoryContent": {
-						"loadUrl": "https://xojav.tv/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
+						"loadUrl": "https://tktube.com/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
 					},
 					"detailContent": {
-						"loadUrl": "https://xojav.tv/videos/${id}"
+						"loadUrl": "https://tktube.com/videos/${id}"
 					},
 					"searchContent": {
-						"loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
+						"loadUrl": "https://tktube.com/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
 					}
 				}
 			}
