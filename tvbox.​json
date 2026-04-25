@@ -175,22 +175,7 @@
                 "type": "rect",
                 "ratio": 1.6
             }
-        },
-        {
-            "key": "csp_XYQHiker_Missav",
-            "name": "🔞MissAV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.49
-            }
-        },
+        },  
         {
             "key": "禁片天堂.py",
             "name": "🈲🔞禁片天堂.py",
@@ -233,14 +218,22 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
+    {                      
+      "key": "精品资源",
+      "name": "🔞精品资源",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "555",
       "name": "🔞小五",
       "type": 0,
       "api": "https://155api.com/api.php/provide/vod/at/xml"
     },
-{
+    {
       "key": "alvin",
       "name": "🔞Alvin",
       "type": 0,
@@ -302,7 +295,7 @@
                 "人兽性交"
             ]
         },
-{
+   {
       "key": "155",
       "name": "🔞福利采集",
       "type": 0,
@@ -312,7 +305,7 @@
       "quickSearch": 0
     },
 
-{
+    {
       "key": "9号资源",
       "name": "🔞9号资源",
       "type": 0,
