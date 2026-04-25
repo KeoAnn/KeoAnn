@@ -221,7 +221,7 @@
     {
 			"key": "精品资源站",
 			"name": "🔞精品资源",
-			"type": 3,
+			"type": 0,
 			"api": "https://www.jingpinx.com/api.php/provide/vod/",
 			"ext": "proxy"
 		},
