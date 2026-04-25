@@ -1,4 +1,3 @@
-
 {
    "logo":"https://i.ibb.co/KpM80tVW/39661b43228ec13d82cbb02a7289bc03960ef89642d1ba6797b2788c2b9bf2cb-0.jpg",
    "wallpaper":"https://i.ibb.co/Jj1hjStH/6e5ef45621934f5ec51e3b0b9eb9f0c073a7341025ca5588a1f9f7dff6d4df3e-0.jpg",
@@ -177,7 +176,62 @@
                 "ratio": 1.6
             }
         },
-{
+        {        
+			"key": "123av",
+			"name": "123AV",
+			"jar": "./jar/gm.jar",
+			"type": 3,
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 0,
+			"filterable": 1,
+			"timeout": 60,
+			"style": {
+				"type": "rect",
+				"ratio": 1.49
+			},
+			"api": "csp_GM",
+			"ext": {
+				"userScript": "./js/123av.user.js",
+				"debug": false,
+				"webViewSettings": {
+					"blockNetworkImage": true,
+					"blockList": [
+						"*.ico",
+						"*.png",
+						"*.jpg",
+						"*.vtt",
+						"*.css*",
+						"https://*.googleapis.com/*",
+						"https://*.googletagmanager.com/*",
+						"https://*.recombee.com/*",
+						"https://*.google-analytics.com/*",
+						"https://njav.tv/recomm/items/*"
+					]
+				},
+				"playUrlMatch": [
+					"https://*/v.m3u8"
+				],
+				"spider": {
+					"homeContent": {
+						"loadUrl": "https://123av.com/zh/dm9"
+					},
+					"categoryContent": {
+						"loadUrl": "https://123av.com/zh/${tid}?page=${pg:-1}${filter:-}${sort:-}"
+					},
+					"detailContent": {
+						"loadUrl": "https://123av.com/zh/${id}"
+					},
+					"playerContent": {
+						"loadUrl": "https://123av.com/zh/${vod_id}"
+					},
+					"searchContent": {
+						"loadUrl": "https://123av.com/zh/search?keyword=${key}&page=${pg:-1}"
+					}
+				}
+			}
+		}, 
+        {
             "key": "禁片天堂.py",
             "name": "🈲🔞禁片天堂.py",
             "type": 3,
@@ -188,7 +242,7 @@
             "order_num": 5,
             "ext": ""
         },
-{
+        {
             "key": "🈲🔞Pornhub.py",
             "name": "🈲🔞Pornhub.py",
             "type": 3,
