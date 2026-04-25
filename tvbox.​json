@@ -212,7 +212,7 @@
    {                    
       "key": "91md.me",
       "name": "🔞91md.me",
-      "type": 3,
+      "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
@@ -221,7 +221,7 @@
     {
 			"key": "精品资源站",
 			"name": "🔞精品资源",
-			"type": 1,
+			"type": 3,
 			"api": "https://www.jingpinx.com/api.php/provide/vod/",
 			"ext": "proxy"
 		},
