@@ -346,7 +346,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-{
+        {
             "name": "♒ TV123",
             "type": 0,
             "url": "http://tv123.vvvv.ee/tv.m3u",
@@ -377,7 +377,7 @@
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },        
+        }      
    ],
    "doh":[
       {
