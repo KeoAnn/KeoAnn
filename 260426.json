@@ -1,8 +1,7 @@
 {
-  //https://github.com/bizhangjie/CatVodSpider 2024.8.1
-  //https://github.com/shichuanenhui/CatVodSpider18
+ "logo":"https://i.ibb.co/bRL5sry3/tv.jpg",
   "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
-  "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆瓣",
@@ -14,10 +13,10 @@
     },
     //https://github.com/FongMi/CatVodSpider 2024.7.2
     {
-      "key": "Doll",
-      "name": "🔞资源┃玩偶",
+      "key": "123AV",
+      "name": "🔞资源┃123AV",
       "type": 3,
-      "api": "csp_Doll",
+      "api": "csp_123AV",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
     },
     {
