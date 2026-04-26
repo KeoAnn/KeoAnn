@@ -28,10 +28,10 @@
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
     },
     {
-      "key": "Hanime",
-      "name": "🔞资源┃H動漫",
+      "key": "TkTube",
+      "name": "🔞资源┃TkTube",
       "type": 3,
-      "api": "csp_Hanime",
+      "api": "csp_TkTube",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
     },
     {
@@ -71,12 +71,6 @@
       "name": "🔞51吃瓜┃图密√",
       "type": 3,
       "api": "csp_Cg51"
-    },
-    {
-      "key": "XVideos",
-      "name": "🔞XVideos┃珍惜",
-      "type": 3,
-      "api": "csp_XVideos"
     },
     {
       "key": "MiMei",
@@ -498,20 +492,6 @@
       "api": "http://bttcj.com/inc/sapi.php"
     },
     {
-      "key": "bttcj",
-      "name": "*博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "playUrl": "https://jx.kujiexi.net/m3u8.php?url="
-    },
-    {
-      "key": "*天堂福利",
-      "name": "*天堂福利",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "filterable": 0
-    },
-    {
       "key": "*CK资源",
       "name": "*CK资源",
       "type": 1,
@@ -522,12 +502,6 @@
       "name": "*番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/"
-    },
-    {
-      "key": "*9号资源",
-      "name": "*9号资源",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/"
     },
     {
       "key": "*色猫资源",
@@ -542,24 +516,6 @@
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
     },
     {
-      "key": "caiji25.com",
-      "name": "成人26",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
-    },
-    {
-      "key": "99zy.pw",
-      "name": "成人25",
-      "type": 1,
-      "api": "http://99zy.pw/api.php/provide/vod/"
-    },
-    {
-      "key": "91md.me",
-      "name": "成人19",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/"
-    },
-    {
       "key": "💞99资源💞",
       "name": "💞99资源💞",
       "type": 1,
@@ -570,12 +526,6 @@
       "name": "成人09",
       "type": 0,
       "api": "http://dadiapi.com/api.php"
-    },
-    {
-      "key": "sdszyapi.com",
-      "name": "成人20",
-      "type": 0,
-      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
     },
     {
       "key": "*色屌丝资源",
@@ -590,40 +540,16 @@
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
     },
     {
-      "key": "*色屌丝资源",
-      "name": "*色屌丝资源",
-      "type": 0,
-      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
-    },
-    {
       "key": "💞色屌丝资源💞",
       "name": "💞色屌丝资源💞",
       "type": 0,
       "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
     },
     {
-      "key": "*色屌丝资源",
-      "name": "*色屌丝资源",
-      "type": 0,
-      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
-    },
-    {
-      "key": "咪咪资源",
-      "name": "咪咪资源(切)",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
-    },
-    {
       "key": "💞咪咪资源💞",
       "name": "💞咪咪资源💞",
       "type": 0,
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
-    },
-    {
-      "key": "*番号",
-      "name": "*番号",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/"
     },
     {
       "key": "*美少女",
@@ -644,47 +570,16 @@
       "api": "https://api.apilyzy.com/api.php/provide/vod/"
     },
     {
-      "key": "*咪咪",
-      "name": "*咪咪",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml"
-    },
-    {
-      "key": "cr32",
-      "name": "*咪咪资源站",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/zp/vod/xml",
-      "playUrl": "https://jx.kujiexi.net/m3u8.php?url="
-    },
-    {
-      "key": "*99",
-      "name": "*99",
+      "key": "91麻豆",
+      "name": "🔞91麻豆",
       "type": 1,
-      "api": "http://99zy.pw/api.php/provide/vod/"
+      "api": "http://91md.me/api.php/provide/vod/"
     },
     {
       "key": "*99资源",
       "name": "*99资源",
       "type": 1,
       "api": "http://99zy.pw/api.php/provide/vod/"
-    },
-    {
-      "key": "*老鸭2",
-      "name": "*老鸭2",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "*老鸭1",
-      "name": "*老鸭1",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list"
-    },
-    {
-      "key": "*Sm",
-      "name": "*Sm",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php"
     },
     {
       "key": "*饮水机",
@@ -694,7 +589,7 @@
     },
     {
       "key": "KpgxdyE",
-      "name": "黄AV资源(已修复)",
+      "name": "🔞黄AV资源",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php"
     },
@@ -717,22 +612,10 @@
       "api": "http://reba.aishunxs.com/api.php/provide/vod/"
     },
     {
-      "key": "*白嫖",
-      "name": "*白嫖",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php"
-    },
-    {
       "key": "*白嫖资源",
       "name": "*白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php"
-    },
-    {
-      "key": "*黄AV",
-      "name": "*黄AV",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php"
     },
     {
       "key": "*淫水机资源",
@@ -759,12 +642,6 @@
       "api": "https://www.xrbsp.com/api/xml.php"
     },
     {
-      "key": "*香奶儿",
-      "name": "*香奶儿",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php"
-    },
-    {
       "key": "*香奶儿资源",
       "name": "*香奶儿资源",
       "type": 0,
@@ -779,7 +656,7 @@
     {
       "key": "maozyapi",
       "name": "*色猫",
-      "type": 0,
+      "type": 1,
       "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
       "playUrl": "https://jx.kujiexi.net/m3u8.php?url="
     }
@@ -952,23 +829,34 @@
     }
   ],
   "lives": [
-    {
-      "name": "atsushi",
+  {
+      "name": "🌈 mytvsuper (Yang)  🌈",
       "type": 0,
-      "playerType": 1,
-      "url": "https://gh-proxy.net/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
+      "ua": "okhttp/5.0.0-alpha.14",
+      "url": "https://tv.iill.top/m3u/MyTV",
+      "playerType": 1
     },
     {
-      "name": "三级片",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://gh-proxy.net/raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt"
-    },
-    {
-      "name": "小武哥",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://qu.ax/PEHy.txt"
-    }
-  ]
-}
+            "name": "✨ JACK TV",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🌠 宫殿TV",
+            "type": 0,
+            "url": "https://gongdian.top/tv/iptv",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "♎ 易发TV",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
