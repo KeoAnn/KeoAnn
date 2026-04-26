@@ -55,7 +55,44 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-       },    
+       },
+       {
+            "key": "926看球",
+            "name": "⚽926┃看球┃直播",
+            "type": 3,
+            "api": "csp_kanqiu926Guard",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "88js",
+            "name": "⚽ 88┃看球┃直播",
+            "type": 3,
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "Jrsjs",
+            "name": "⚽ Jrs┃球迷┃直播",
+            "type": 3,
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
        {  
             "key": "csp_XYQHiker_jable",
             "name": "🔞Jable",
