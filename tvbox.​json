@@ -11,8 +11,22 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"鑫鑫影视","name":"🕯鑫鑫影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
-{"key":"加亮影视","name":"🪔加亮影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
+    { "key": "49影视",
+      "name": "🐬49影视",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    { "key": "加速┃影视",
+      "name": "🐬加速影视",
+      "type": 1,
+      "api": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {                    
       "key": "艾旦资源",
       "name": "🐬艾旦资源",
