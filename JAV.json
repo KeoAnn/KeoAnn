@@ -16,7 +16,7 @@
     {
       "key": "123AV",
       "name": "🔞123AV",
-      "type": 3,
+      "type": 1,
       "api": "csp_123av",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
     },
@@ -129,7 +129,7 @@
     {
       "key": "*美少女资源",
       "name": "🔞美少女资源",
-      "type": 0,
+      "type": 1,
       "api": "https://www.msnii.com/api/xml.php"
     },
     {
@@ -147,7 +147,7 @@
     {
       "key": "91md.me",
       "name": "🔞91麻豆",
-      "type": 0,
+      "type": 1,
       "api": "http://91md.me/api.php/provide/vod/"
     },
     {
