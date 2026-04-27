@@ -19,14 +19,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    { "key": "加速┃影视",
-      "name": "🐬加速影视",
-      "type": 1,
-      "api": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {                    
       "key": "艾旦资源",
       "name": "🐬艾旦资源",
@@ -362,13 +354,21 @@
       "url": "https://tv.iill.top/m3u/MyTV",
       "playerType": 1
     },
-{
+    {
             "name": "✨ JACK TV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📺 Live TV",
+            "type": 0,
+            "url": "https://pastebin.com/raw/rwv7Uctt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
             "name": "♒ TV123",
