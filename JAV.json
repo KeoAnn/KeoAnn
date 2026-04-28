@@ -1,8 +1,8 @@
 {
-  //https://github.com/bizhangjie/CatVodSpider 2024.8.1
-  //https://github.com/shichuanenhui/CatVodSpider18
+  https://github.com/bizhangjie/CatVodSpider 2026.4.28
+  https://github.com/shichuanenhui/CatVodSpider18
   "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
-  "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "wallpaper": "http://127.0.0.1:9978/file/XYQTVBox/01.png",
   "sites": [
     {
       "key": "豆瓣",
@@ -12,7 +12,6 @@
       "searchable": 0,
       "indexs": 1
     },
-    //https://github.com/FongMi/CatVodSpider 2024.7.2
     {
       "key": "123AV",
       "name": "🔞123AV",
@@ -27,21 +26,6 @@
       "api": "csp_Eighteen",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
     },
-    {
-            "key": "CableAV",
-            "name": "🔞CableAV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/cableav.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
@@ -709,7 +693,7 @@
       "key": "maozyapi",
       "name": "*色猫",
       "type": 1,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/",
       "playUrl": "https://jx.kujiexi.net/m3u8.php?url="
     }
   ],
