@@ -235,6 +235,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {                   
+      "key": "AVJB",
+      "name": "🔞AVjb",
+      "type": 1,
+      "api": "https://avjb.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "555",
       "name": "🔞小五",
