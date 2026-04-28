@@ -235,15 +235,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {                   
-      "key": "AVJB",
-      "name": "🔞AVjb",
-      "type": 1,
-      "api": "http://www.243333.xyz//api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "555",
       "name": "🔞小五",
