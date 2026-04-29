@@ -239,7 +239,7 @@
       "key": "白嫖资源",
       "name": "🔞白嫖资源",
       "type": 1,
-      "api": "https://www.kxgav.com/api/xml.php/",
+      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
