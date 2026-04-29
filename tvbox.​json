@@ -226,6 +226,24 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {                      
+      "key": "Madouse.la",
+      "name": "🔞麻豆视频",
+      "type": 1,
+      "api": "https://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {                     
+      "key": "白嫖资源",
+      "name": "🔞白嫖资源",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/xml.php/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {                    
       "key": "色猫",
       "name": "🔞色猫",
