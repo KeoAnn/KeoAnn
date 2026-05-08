@@ -28,10 +28,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     { "key": "暴风影视",
+     { "key": "爱看2k",
       "name": "🐬爱看2k",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
