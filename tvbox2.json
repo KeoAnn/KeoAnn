@@ -285,78 +285,7 @@
 					},
 					"detailContent": {
 						"loadUrl": "https://supjav.com/zh/${id}"
-					},
-					"playerContent": {
-						"loadUrl": "https://supjav.com/zh/${pathname}#${link}"
-					},
-					"searchContent": {
-						"loadUrl": "https://supjav.com/zh/page/${pg:-1}?s=${key}"
-					}
-				}
-			}
-		},
-		{
-			"key": "TkTube",
-			"name": "TkTube",
-			"jar": "./jar/gm.jar",
-			"type": 3,
-			"quickSearch": 1,
-			"searchable": 1,
-			"changeable": 0,
-			"filterable": 1,
-			"timeout": 60,
-			"style": {
-				"type": "rect",
-				"ratio": 1.78
-			},
-			"api": "csp_GM",
-			"ext": {
-				"userScript": "./js/tktube.user.js",
-				"debug": false,
-				"webViewSettings": {
-					"blockNetworkImage": true,
-					"blockList": [
-						"*.css*",
-						"*.ico*",
-						"*.png*",
-						"*.svg",
-						"https://*.googleapis.com/*",
-						"https://*.googletagmanager.com/*",
-						"https://*.magsrv.com/*",
-						"https://*.pemsrv.com/*"
-					]
-				},
-				"spider": {
-					"homeContent": {
-						"loadUrl": "https://tktube.com/?lang=zh"
-					},
-					"categoryContent": {
-						"loadUrl": "https://tktube.com/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
-					},
-					"detailContent": {
-						"loadUrl": "https://tktube.com/videos/${id}"
-					},
-					"searchContent": {
-						"loadUrl": "https://tktube.com/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
-					}
-				}
-			}
-		},
-		{
-			"key": "py_jable",
-			"name": "jable(T3)",
-			"type": 3,
-			"api": "./py/jable.py"
-		},
-		{
-			"key": "py_七区",
-			"name": "七区(T3)",
-			"type": 3,
-			"api": "./py/七区.py",
-			"quickSearch": 1,
-			"searchable": 1,
-			"filterable": 1
-		},
+
 		{
 			"key": "javdb_py",
 			"name": "javdb",
