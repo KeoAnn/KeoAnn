@@ -260,6 +260,24 @@
       "searchable": 1,
       "quickSearch": 0
     },
+{                      
+      "key": "hsck.la",
+      "name": "🔞hsck.TV",
+      "type": 1,
+      "api": "https://hsck.la/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{                      
+      "key": "黄色仓库",
+      "name": "🔞黄色仓库2",
+      "type": 1,
+      "api": "http://456140.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "555",
       "name": "🔞小五",
