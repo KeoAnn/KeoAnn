@@ -28,10 +28,34 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     { "key": "爱看2k",
+     { "key": "豆瓣资源",
+      "name": "🐬豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {  "key": "爱看2k",
       "name": "🐬爱看2k",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {  "key": "魔爪资源",
+      "name": "🐬魔爪资源",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    { "key": "七七影视",
+      "name": "🐬七七影视",
+      "type": 1,
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -261,10 +285,10 @@
       "quickSearch": 0
     },
     {
-      "key": "555",
-      "name": "🔞小五",
+      "key": "AV百万资源",
+      "name": "🔞AV百万资源",
       "type": 0,
-      "api": "https://155api.com/api.php/provide/vod/at/xml"
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "alvin",
