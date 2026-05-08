@@ -28,10 +28,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     { "key": "豆瓣资源",
-      "name": "🐬豆瓣资源",
+     { "key": "360资源",
+      "name": "🐬360资源",
       "type": 1,
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -44,18 +44,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {  "key": "魔爪资源",
-      "name": "🐬魔爪资源",
+    {  "key": "U酷资源",
+      "name": "🐬U酷资源",
       "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    { "key": "七七影视",
-      "name": "🐬七七影视",
+    { "key": "天涯资源",
+      "name": "🐬天涯资源",
       "type": 1,
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "api": "https://www.tyyszy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
