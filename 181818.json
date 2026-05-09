@@ -472,14 +472,6 @@
 			}
 		},
 		{
-			"key": "色播",
-			"name": "色播",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "py_色播聚合",
 			"name": "py_色播聚合(T3)",
 			"type": 3,
@@ -1445,6 +1437,6 @@
 		"mgtv",
 		"wasu"
 	],
-	"spider": "./jar/xbpq.jar",
+	"spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485r",
 	"logo": "./img/pg.gif"
 }
