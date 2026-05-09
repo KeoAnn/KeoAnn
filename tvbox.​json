@@ -228,17 +228,6 @@
             "ext": ""
         },
         {
-            "key": "🈲🔞Pornhub.py",
-            "name": "🈲🔞Pornhub.py",
-            "type": 3,
-            "api": "https://od.lk/s/NjFfMTEyNjI0NTIzXw/Pornhub.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-    },
-    {
             "key": "🈲🔞Xhamster.py",
             "name": "🈲🔞Xhamster.py",
             "type": 3,
@@ -249,6 +238,15 @@
             "filterable": 1,
             "playerType": 2
     },
+    {
+			"key": "XMVideo",
+			"name": "熊猫视频",
+			"type": 3,
+			"api": "csp_XMVideo",
+			"searchable": 1,
+			"filterable": 1,
+			"jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+		},
     {                      
       "key": "91md.me",
       "name": "🔞91md.me",
