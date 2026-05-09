@@ -1,4 +1,4 @@
-  {
+{
 	"sites": [
 		{
 			"key": "精品资源站",
@@ -472,6 +472,14 @@
 			}
 		},
 		{
+			"key": "色播",
+			"name": "色播",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
 			"key": "py_色播聚合",
 			"name": "py_色播聚合(T3)",
 			"type": 3,
@@ -538,6 +546,54 @@
 			"jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
 		},
 		{
+			"key": "lav",
+			"name": "lav",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_lav.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "proxy"
+		},
+		{
+			"key": "xhm",
+			"name": "xhm",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_Xhm.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "proxy"
+		},
+		{
+			"key": "csp_pornhub",
+			"name": "Pornhub",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"jar": "./jar/XYQ.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./json/pornhub.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.6,
+				"proxy": "proxy"
+			}
+		},
+		{
+			"key": "pornhub",
+			"name": "py_Phb",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_Phb.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "proxy"
+		},
 		{
 			"key": "推特",
 			"name": "推特",
@@ -578,13 +634,74 @@
 			"ext": "proxy"
 		},
 		{
-			"key": "抖🔞阴视频",
-			"name": "🔞抖阴视频",
+			"key": "松视开通3",
+			"name": "松视3",
 			"type": 1,
-			"api": "https://madouse.la/api.php/provide/vod/",
+			"api": "https://api.sexnguon.com/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0,
 			"ext": "proxy"
+		},
+		{
+			"key": "*抖阴视频",
+			"name": "*抖阴视频",
+			"type": 1,
+			"api": "https://www.888dav.com/api.php/provide/vod/",
+			"quickSearch": 0,
+			"ext": "proxy"
+		},
+		{
+			"key": "MissAV",
+			"name": "MissAV",
+			"type": 3,
+			"api": "csp_Miss",
+			"ext": "noproxy",
+			"searchable": 1,
+			"recordable": 0,
+			"timeout": 60,
+			"style": {
+				"type": "rect",
+				"ratio": 1.78
+			}
+		},
+		{
+			"key": "Hanime",
+			"name": "Hanime",
+			"type": 3,
+			"api": "csp_Hanime",
+			"searchable": 1,
+			"recordable": 0,
+			"timeout": 60,
+			"ext": "proxy",
+			"style": {
+				"type": "rect",
+				"ratio": 0.68
+			}
+		},
+		{
+			"key": "18AV",
+			"name": "18AV",
+			"type": 3,
+			"api": "csp_Eighteen",
+			"searchable": 1,
+			"recordable": 0,
+			"timeout": 60,
+			"ext": "proxy",
+			"style": {
+				"type": "rect",
+				"ratio": 1.485
+			}
+		},
+		{
+			"key": "csp_JavBus",
+			"name": "JavBus",
+			"type": 3,
+			"api": "csp_JavBus",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"ext": "null$$$https://www.javbus.com$$$proxy"
 		},
 		{
 			"key": "csp_JavDb",
@@ -1147,7 +1264,7 @@
 				}
 			]
 		}
-	 ],
+	],
 	"doh": [
 		{
 			"name": "Google",
@@ -1191,7 +1308,7 @@
 				"149.112.112.112"
 			]
 		}
-	 ],
+	],
 	"proxy": [
 		"raw.githubusercontent.com",
 		"googlevideo.com",
@@ -1207,14 +1324,14 @@
 		".*boku.*",
 		".*nivod.*",
 		".*ulivetv.*"
-	 ],
+	],
 	"hosts": [
 		"cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
 		"cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
 		"cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
 		"cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
 		"cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
-	 ],
+	],
 	"rules": [
 		{
 			"name": "proxy",
@@ -1412,7 +1529,7 @@
 				"UUE29"
 			]
 		}
-	 ],
+	],
 	"parses": [
 		{
 			"name": "聚合",
@@ -1437,6 +1554,6 @@
 		"mgtv",
 		"wasu"
 	],
-	"spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485r",
+	"spider": "./jar/xbpq.jar",
 	"logo": "./img/pg.gif"
-}
+						}
