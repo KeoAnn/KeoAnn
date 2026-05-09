@@ -455,31 +455,6 @@
 			"ext": "proxy"
 		},
 		{
-			"key": "TGYunPan18pan",
-			"name": "TG|涩涩",
-			"searchable": 1,
-			"changeable": 1,
-			"type": 3,
-			"api": "csp_TGYunPan",
-			"timeout": 60,
-			"ext": {
-				"token": "./lib/tokenm.json",
-				"json": "https://raw.githubusercontent.com/fish2018/lib/main/json/18pan.json",
-				"keywords": "名称,片名,推荐",
-				"channellist": "CosMM18,avpush,ribenseyuge1,cilitu,cctav,ppg1314,avab01,SeseAnime,AVnew,jpccav,PornXOS,CCCTAV",
-				"proxy": "noproxy",
-				"danmu": true
-			}
-		},
-		{
-			"key": "色播",
-			"name": "色播",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "py_色播聚合",
 			"name": "py_色播聚合(T3)",
 			"type": 3,
@@ -498,30 +473,6 @@
 			"searchable": 1,
 			"filterable": 1,
 			"jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-		},
-		{
-			"key": "玩偶",
-			"name": "玩偶姐姐",
-			"type": 3,
-			"api": "csp_Doll",
-			"searchable": 1,
-			"recordable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.309
-			},
-			"ext": "proxy"
-		},
-		{
-			"key": "Zuise",
-			"name": "最色",
-			"type": 3,
-			"api": "csp_Zuise",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "proxy"
 		},
 		{
 			"key": "csp_xBPQ_超清",
@@ -544,44 +495,6 @@
 			"filterable": 1,
 			"ext": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExwRmRvQzB6bUdZek5GN1Ry.txt",
 			"jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
-		},
-		{
-			"key": "lav",
-			"name": "lav",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_lav.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "proxy"
-		},
-		{
-			"key": "xhm",
-			"name": "xhm",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_Xhm.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "proxy"
-		},
-		{
-			"key": "csp_pornhub",
-			"name": "Pornhub",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"jar": "./jar/XYQ.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./json/pornhub.json",
-			"style": {
-				"type": "rect",
-				"ratio": 1.6,
-				"proxy": "proxy"
-			}
 		},
 		{
 			"key": "pornhub",
@@ -634,49 +547,13 @@
 			"ext": "proxy"
 		},
 		{
-			"key": "松视开通3",
-			"name": "松视3",
+			"key": "抖阴视频",
+			"name": "抖阴视频",
 			"type": 1,
-			"api": "https://api.sexnguon.com/api.php/provide/vod/",
+			"api": "https://madouse.la/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0,
 			"ext": "proxy"
-		},
-		{
-			"key": "*抖阴视频",
-			"name": "*抖阴视频",
-			"type": 1,
-			"api": "https://www.888dav.com/api.php/provide/vod/",
-			"quickSearch": 0,
-			"ext": "proxy"
-		},
-		{
-			"key": "MissAV",
-			"name": "MissAV",
-			"type": 3,
-			"api": "csp_Miss",
-			"ext": "noproxy",
-			"searchable": 1,
-			"recordable": 0,
-			"timeout": 60,
-			"style": {
-				"type": "rect",
-				"ratio": 1.78
-			}
-		},
-		{
-			"key": "Hanime",
-			"name": "Hanime",
-			"type": 3,
-			"api": "csp_Hanime",
-			"searchable": 1,
-			"recordable": 0,
-			"timeout": 60,
-			"ext": "proxy",
-			"style": {
-				"type": "rect",
-				"ratio": 0.68
-			}
 		},
 		{
 			"key": "18AV",
