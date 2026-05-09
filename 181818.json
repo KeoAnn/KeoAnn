@@ -508,17 +508,6 @@
 			"ext": "proxy"
 		},
 		{
-			"key": "推特",
-			"name": "推特",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_推特.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "proxy"
-		},
-		{
 			"key": "麻豆视频",
 			"name": "麻豆视频",
 			"type": 1,
@@ -612,7 +601,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "proxy"
 		},
 		{
 			"key": "白嫖",
