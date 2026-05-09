@@ -718,39 +718,65 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "TKTUBE",
-      "name": "🔞TKTUBE",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
-      "playUrl": "https://play.dadiapi.com/watch?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*色猫资源",
-      "name": "*色猫资源",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*色南国资源",
-      "name": "*色南国资源",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*抖阴视频",
-      "name": "*抖阴视频",
-      "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+			"key": "精品资源站",
+			"name": "精品资源",
+			"type": 1,
+			"api": "https://www.jingpinx.com/api.php/provide/vod/",
+			"ext": "proxy"
+		},
+		{
+			"key": "Jable",
+			"name": "Jable",
+			"jar": "./jar/gm.jar",
+			"type": 3,
+			"quickSearch": 1,
+			"searchable": 1,
+			"changeable": 0,
+			"filterable": 1,
+			"timeout": 60,
+			"style": {
+				"type": "rect",
+				"ratio": 1.48
+			},
+			"api": "csp_GM",
+			"ext": {
+				"userScript": "./js/jable.user.js",
+				"debug": false,
+				"webViewSettings": {
+					"blockNetworkImage": true,
+					"blockList": [
+						"*.ico*",
+						"*.png*",
+						"*.css*",
+						"https://*.adsco.re/*",
+						"https://*.googleapis.com/*",
+						"https://*.googlesyndication.com/*",
+						"https://*.googletagmanager.com/*",
+						"https://*.hpyjmp.com/*",
+						"https://*.magsrv.com/*",
+						"https://*.mnaspm.com/*",
+						"https://*.shukriya90.com/*",
+						"https://*.tapioni.com/*",
+						"https://*.tsyndicate.com/*",
+						"https://assets.jable.tv/assets/js/player.js"
+					]
+				},
+				"spider": {
+					"homeContent": {
+						"loadUrl": "https://jable.tv/"
+					},
+					"categoryContent": {
+						"loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
+					},
+					"detailContent": {
+						"loadUrl": "https://jable.tv/videos/${id}/"
+					},
+					"searchContent": {
+						"loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
+					}
+				}
+			}
+		},
     {
       "key": "*麻豆视频2",
       "name": "*麻豆视频2",
