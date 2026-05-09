@@ -265,6 +265,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {              
+      "key": "麻豆传媒映画",
+      "name": "🔞麻豆传媒映画",
+      "type": 1,
+      "api": "https://madou.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {                    
       "key": "色猫",
       "name": "🔞色猫",
@@ -274,11 +283,29 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{                 
+      "key": "天美传媒",
+      "name": "🔞天美传媒",
+      "type": 1,
+      "api": "https://www.bt4.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {                 
       "key": "Souavzyw",
       "name": "🔞Souavzyw",
       "type": 1,
       "api": "https://www.souavzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {                
+      "key": "hsck.la",
+      "name": "🔞hsck.la",
+      "type": 1,
+      "api": "https://hsck.la/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
