@@ -238,6 +238,16 @@
             "filterable": 1,
             "playerType": 2
     },
+{"key": "18j.tv","name": "🌳18j.tv🌳",
+		"type": 3,"api": "csp_XBPQ",
+		"ext": { "主页url": "https://18j.tv/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
+                "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"}},
     {
 			"key": "XMVideo",
 			"name": "熊猫视频",
@@ -261,6 +271,15 @@
       "name": "🔞麻豆视频",
       "type": 1,
       "api": "https://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {                  
+      "key": "Madouse.la",
+      "name": "🔞黄色仓库",
+      "type": 1,
+      "api": "https://zk8.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
