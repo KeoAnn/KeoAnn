@@ -7,13 +7,13 @@
       "name": "🌕推荐┃豆瓣",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0,
+      "searchable": 1,
       "indexs": 1
     },
     {
       "key": "Doll",
       "name": "🔞资源┃玩偶",
-      "type": 3,
+      "type": 1,
       "api": "csp_Doll",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
     },
