@@ -1,9 +1,7 @@
-{
-  //https://github.com/bizhangjie/CatVodSpider 2024.8.1
-  //https://github.com/shichuanenhui/CatVodSpider18
+[
   "spider": "./jar/xbpq.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "sites": [
+  "sites": 
     {
       "key": "豆瓣",
       "name": "🌕推荐┃豆瓣",
@@ -12,7 +10,6 @@
       "searchable": 0,
       "indexs": 1
     },
-    //https://github.com/FongMi/CatVodSpider 2024.7.2
     {
       "key": "Doll",
       "name": "🔞资源┃玩偶",
