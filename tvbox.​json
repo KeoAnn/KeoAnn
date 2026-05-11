@@ -281,19 +281,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Msnii",
-      "name": "🔞Msnii",
-      "type": 0,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
+    {                 
+      "key": "抖阴视频",
+      "name": "🔞抖阴视频",
+      "type": 1,
+      "api": "https://www.souavzyw.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 0
+      "quickSearch": 1,
+      "filterable": 1
     },
     {                 
       "key": "Souavzyw",
       "name": "🔞Souavzyw",
       "type": 1,
-      "api": "https://www.souavzyw.com/api.php/provide/vod/",
+      "api": "https://www.888dav.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
