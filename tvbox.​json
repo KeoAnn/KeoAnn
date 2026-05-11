@@ -228,6 +228,17 @@
             "ext": ""
         },
         {
+            "key": "Pornhub.py",
+            "name": "🈲🔞Pornhub.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTE2ODE4OTc1Xw/pornhub.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
 			"key": "XMVideo",
 			"name": "熊猫视频",
 			"type": 3,
