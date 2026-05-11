@@ -236,8 +236,6 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 5,
-            "ext": ""
             "playerType": 2
     },
     {
