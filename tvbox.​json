@@ -237,8 +237,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-    },
-    {
+        },
+        {
 			"key": "XMVideo",
 			"name": "熊猫视频",
 			"type": 3,
