@@ -266,10 +266,10 @@
       "filterable": 1
     },
     {                  
-      "key": "黄色仓库",
-      "name": "🔞黄色仓库",
+      "key": "精品资源",
+      "name": "🔞精品资源",
       "type": 1,
-      "api": "http://zk8.cc/api.php/provide/vod/",
+      "api": "https://www.jingpinx.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
