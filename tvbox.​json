@@ -44,16 +44,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {  
-      "key": "csp_douban",
-      "name": "🌕┃豆瓣┃推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {  "key": "U酷资源",
       "name": "🐬U酷资源",
       "type": 1,
@@ -246,6 +236,8 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "order_num": 5,
+            "ext": ""
             "playerType": 2
     },
     {
