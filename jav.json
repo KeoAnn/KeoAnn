@@ -1546,7 +1546,7 @@
 		"pptv",
 		"mgtv",
 		"wasu"
-	 ],
+	],
 	"spider": "./jar/xbpq.jar",
 	"logo": "./img/pg.gif"
 }
