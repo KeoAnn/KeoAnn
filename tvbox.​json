@@ -52,6 +52,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {             
+      "key": "虎牙影视",
+      "name": "🐬虎牙影视",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     { "key": "天涯资源",
       "name": "🐬天涯资源",
       "type": 1,
@@ -286,15 +295,6 @@
       "name": "🔞抖阴视频",
       "type": 1,
       "api": "https://www.souavzyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {                 
-      "key": "Souavzyw",
-      "name": "🔞Souavzyw",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
