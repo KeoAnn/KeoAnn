@@ -448,13 +448,6 @@
 			"ext": "proxy"
 		},
 		{
-			"key": "色猫",
-			"name": "色猫2",
-			"type": 1,
-			"api": "https://api.maozyapi.com/inc/apijson_vod.php",
-			"ext": "proxy"
-		},
-		{
 			"key": "TGYunPan18pan",
 			"name": "TG|涩涩",
 			"searchable": 1,
@@ -1554,6 +1547,6 @@
 		"mgtv",
 		"wasu"
 	],
-	"spider": "./jar/xbpq.jar",
-	"logo": "./img/pg.gif"
+	"logo":"https://i.ibb.co/bRL5sry3/tv.jpg",
+   "wallpaper":"https://深色壁纸.xxooo.cf/",
 }
