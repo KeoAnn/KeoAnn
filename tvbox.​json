@@ -26,9 +26,9 @@
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./lib/fty.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     { "key": "暴风影视",
       "name": "🐬暴风影视",
