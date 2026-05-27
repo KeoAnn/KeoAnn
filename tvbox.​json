@@ -146,6 +146,19 @@
             }
         },
         {
+            "key": "javxx",
+            "name": "🔞 JAVXX",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "https://od.lk/s/NjFfMTE0OTIyMzMxXw/javxx.py",
+            "ext": {
+                "proxy": {},
+                "plp": ""
+            }
+        },
+        {
             "key": "csp_XYQHiker_njavtv.com",
             "name": "🔞Njavtv",
             "type": 3,
