@@ -159,15 +159,15 @@
             }
         },
         {
-            "key": "MissAV",
-            "name": "🔞MissAV",
+            "key": "TkTube",
+            "name": "🔞TkTube",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json",
+            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -271,6 +271,50 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "https://od.lk/s/NjFfMTE2ODE4OTc1Xw/kptt.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "PigAV",
+            "name": "🈲🔞PigAV.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDU0NzQwXw/PigAV.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "H",
+            "name": "🈲🔞V-HUB.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDU0Nzc5Xw/V-HUB.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "Twojav.py",
+            "name": "🈲🔞Twojav.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3OTk0Xw/Twojav.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "AVBeBe.py",
+            "name": "🈲🔞AVBeBe.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg4MDc3Xw/AVBeBe.py",
             "order_num": 5,
             "ext": ""
         },
