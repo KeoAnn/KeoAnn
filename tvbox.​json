@@ -147,7 +147,7 @@
         },
         {
             "key": "javxx",
-            "name": "🔞 JAVXX",
+            "name": "🔞JAVXX",
             "type": 3,
             "searchable": 1,
             "quickSearch": 0,
@@ -156,21 +156,6 @@
             "ext": {
                 "proxy": {},
                 "plp": ""
-            }
-        },
-        {
-            "key": "TkTube",
-            "name": "🔞TkTube",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/6ffxsq.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
             }
         },
         {
@@ -265,7 +250,7 @@
         },  
         {
             "key": "禁片天堂.py",
-            "name": "🈲🔞禁片天堂.py",
+            "name": "🔞禁片天堂.py",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -276,7 +261,7 @@
         },
         {
             "key": "PigAV",
-            "name": "🈲🔞PigAV.py",
+            "name": "🔞PigAV.py",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -287,7 +272,7 @@
         },
         {
             "key": "H",
-            "name": "🈲🔞V-HUB.py",
+            "name": "🔞V-HUB.py",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -298,7 +283,7 @@
         },
         {
             "key": "Twojav.py",
-            "name": "🈲🔞Twojav.py",
+            "name": "🔞Twojav.py",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -309,7 +294,7 @@
         },
         {
             "key": "AVBeBe.py",
-            "name": "🈲🔞AVBeBe.py",
+            "name": "🔞AVBeBe.py",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -319,8 +304,41 @@
             "ext": ""
         },
         {
+            "key": "蘿莉AV.py",
+            "name": "🔞蘿莉AV.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3ODc1Xw/%E8%98%BF%E8%8E%89AV.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "性愛大師.py",
+            "name": "🔞性愛大師.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3OTM5Xw/%E6%80%A7%E6%84%9B%E5%A4%A7%E5%B8%AB.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "久久視頻.py",
+            "name": "🔞久久視頻.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3NzYyXw/%E4%B9%85%E4%B9%85%E8%A6%96%E9%A0%BB.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
 			"key": "XMVideo",
-			"name": "熊猫视频",
+			"name": "🔞 熊猫视频",
 			"type": 3,
 			"api": "csp_XMVideo",
 			"searchable": 1,
@@ -383,7 +401,7 @@
     },
     {
       "key": "杏吧资源",
-      "name": "杏吧资源",
+      "name": "🔞杏吧资源",
       "type": 0,
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
