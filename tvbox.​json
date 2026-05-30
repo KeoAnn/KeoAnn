@@ -219,15 +219,15 @@
             }
         },
         { 
-            "key": "csp_XYQHiker_123AV",
-            "name": "🔞123AV",
+            "key": "csp_XYQHiker_MissAV",
+            "name": "🔞MissAV",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/123av.json",
+            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -560,15 +560,15 @@
         {
             "name": "🌠 宫殿TV",
             "type": 0,
-            "url": "https://gongdian.top/tv/iptv",
+            "url": "https://perfecttv.net/PerfecttvFree.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "♎ 易发TV",
+            "name": "♎ 4GTV",
             "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+            "url": "http://4gtv.158.qzz.io/4gtv.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
