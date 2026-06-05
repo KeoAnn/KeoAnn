@@ -11,6 +11,31 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "猎手影视",
+      "name": "猎手｜APP",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/py/猎手影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "腾腾视频",
+      "name": "腾腾｜视频",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js"
+    },
+    {
+      "key": "酷酷视频",
+      "name": "酷酷｜视频",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js"
+    },
     {                    
       "key": "艾旦资源",
       "name": "🐬艾旦资源",
