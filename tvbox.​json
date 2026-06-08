@@ -437,10 +437,10 @@
       "filterable": 1
     },
     {                    
-      "key": "色猫",
-      "name": "🔞色猫",
+      "key": "🔞黄色仓库AV",
+      "name": "🔞黄色仓库AV",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -617,7 +617,7 @@
         {
             "name": "♎ 4GTV",
             "type": 0,
-            "url": "http://4gtv.158.qzz.io/4gtv.m3u",
+            "url": "https://ha.msbot.dpdns.org/4gtv_api.php",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
