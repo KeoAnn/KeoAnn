@@ -401,6 +401,17 @@
             "ext": ""
         },
         {
+            "key": "熊猫直播[播].py",
+            "name": "熊猫直播[播].py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "api": "./py/熊猫直播[播].py",
+            "changeable": 1,
+            "playerType": 2
+        },
+        {
 			"key": "XMVideo",
 			"name": "🔞 熊猫视频",
 			"type": 3,
