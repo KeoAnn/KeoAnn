@@ -401,6 +401,17 @@
             "ext": ""
         },
         {
+            "key": "高清仓库.py",
+            "name": "🔞高清仓库.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg4MDI3Xw/%E9%AB%98%E6%B8%85%E4%BB%93%E5%BA%93.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
 			"key": "XMVideo",
 			"name": "🔞 熊猫视频",
 			"type": 3,
