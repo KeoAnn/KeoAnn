@@ -413,7 +413,7 @@
         },
         {
 			"key": "XMVideo",
-			"name": "🔞 熊猫视频",
+			"name": "🔞熊猫视频",
 			"type": 3,
 			"api": "csp_XMVideo",
 			"searchable": 1,
