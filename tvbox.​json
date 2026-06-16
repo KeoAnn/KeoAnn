@@ -11,6 +11,55 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "猎手影视",
+      "name": "猎手｜APP",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/py/猎手影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "腾腾视频",
+      "name": "腾腾｜视频",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js"
+    },
+    {
+      "key": "酷酷视频",
+      "name": "酷酷｜视频",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js"
+    },
+    {
+      "key": "果果视频",
+      "name": "果果｜视频",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js"
+    },
+    {
+      "key": "三秋影视",
+      "name": "三秋┃APP",
+      "api": "csp_App3QFishGuard",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260602/M5WI/fish06020803.php"
+    },
+    {
+      "key": "奇奇视频",
+      "name": "奇奇｜视频",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
+    },
     {                    
       "key": "艾旦资源",
       "name": "🐬艾旦资源",
@@ -120,7 +169,7 @@
             "name": "🔞Jable",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -135,7 +184,7 @@
             "name": "🔞JAVDAYTV",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -146,11 +195,24 @@
             }
         },
         {
+            "key": "javxx",
+            "name": "🔞JAVXX",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "https://od.lk/s/NjFfMTE0OTIyMzMxXw/javxx.py",
+            "ext": {
+                "proxy": {},
+                "plp": ""
+            }
+        },
+        {
             "key": "csp_XYQHiker_njavtv.com",
             "name": "🔞Njavtv",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -165,7 +227,7 @@
             "name": "🔞JAV6K",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -180,7 +242,7 @@
             "name": "🔞JAVFFM",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -195,7 +257,7 @@
             "name": "🔞javtsunami",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -204,13 +266,28 @@
                 "type": "rect",
                 "ratio": 1.6
             }
-        }, 
+        },
+        { 
+            "key": "csp_XYQHiker_MissAV",
+            "name": "🔞MissAV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
         {
             "key": "csp_XYQHiker_18av",
             "name": "🔞18AV",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -225,7 +302,7 @@
             "name": "🔞黄色仓库",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -237,7 +314,7 @@
         },  
         {
             "key": "禁片天堂.py",
-            "name": "🈲🔞禁片天堂.py",
+            "name": "🔞禁片天堂.py",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -247,8 +324,96 @@
             "ext": ""
         },
         {
+            "key": "PigAV",
+            "name": "🔞PigAV.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDU0NzQwXw/PigAV.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "H",
+            "name": "🔞V-HUB.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDU0Nzc5Xw/V-HUB.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "Twojav.py",
+            "name": "🔞Twojav.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3OTk0Xw/Twojav.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "AVBeBe.py",
+            "name": "🔞AVBeBe.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg4MDc3Xw/AVBeBe.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "蘿莉AV.py",
+            "name": "🔞蘿莉AV.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3ODc1Xw/%E8%98%BF%E8%8E%89AV.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "性愛大師.py",
+            "name": "🔞性愛大師.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3OTM5Xw/%E6%80%A7%E6%84%9B%E5%A4%A7%E5%B8%AB.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "久久視頻.py",
+            "name": "🔞久久視頻.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3NzYyXw/%E4%B9%85%E4%B9%85%E8%A6%96%E9%A0%BB.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "高清仓库.py",
+            "name": "🔞高清仓库.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg4MDI3Xw/%E9%AB%98%E6%B8%85%E4%BB%93%E5%BA%93.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
 			"key": "XMVideo",
-			"name": "熊猫视频",
+			"name": "🔞熊猫视频",
 			"type": 3,
 			"api": "csp_XMVideo",
 			"searchable": 1,
@@ -283,10 +448,10 @@
       "filterable": 1
     },
     {                    
-      "key": "色猫",
-      "name": "🔞色猫",
+      "key": "🔞黄色仓库AV",
+      "name": "🔞黄色仓库AV",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -311,7 +476,7 @@
     },
     {
       "key": "杏吧资源",
-      "name": "杏吧资源",
+      "name": "🔞杏吧资源",
       "type": 0,
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -455,15 +620,15 @@
         {
             "name": "🌠 宫殿TV",
             "type": 0,
-            "url": "https://gongdian.top/tv/iptv",
+            "url": "https://perfecttv.net/PerfecttvFree.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "♎ 易发TV",
+            "name": "♎ 4GTV",
             "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+            "url": "https://ha.msbot.dpdns.org/4gtv_api.php",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
