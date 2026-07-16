@@ -402,7 +402,7 @@
             "ext": ""
         },
         {   "key": "XMVideo",
-			"name": "熊猫视频",
+			"name": "🔞熊猫视频",
 			"type": 3,
 			"api": "csp_XMVideo",
 			"searchable": 1,
@@ -458,7 +458,7 @@
       "key": "抖阴视频",
       "name": "🔞抖阴视频",
       "type": 1,
-      "api": "https://www.souavzyw.com/api.php/provide/vod/",
+      "api": "https://naixxzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
