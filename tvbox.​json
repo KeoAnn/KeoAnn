@@ -60,6 +60,16 @@
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
     },
+    {
+      "key": "极影",
+      "name": "极影┃影视",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
     {                    
       "key": "艾旦资源",
       "name": "🐬艾旦资源",
