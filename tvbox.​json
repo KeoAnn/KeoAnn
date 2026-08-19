@@ -208,15 +208,15 @@
             }
         },
         { 
-            "key": "csp_XYQHiker_NetflAV",
-            "name": "🔞NetflAV",
+            "key": "csp_XYQHiker_tktube.com",
+            "name": "🔞TkTube.com",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://files.catbox.moe/6ffxsq.png",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/netflav.json",
+            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.com.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -484,7 +484,7 @@
       "key": "抖阴视频",
       "name": "🔞抖阴视频",
       "type": 1,
-      "api": "https://www.souavzyw.com/api.php/provide/vod/",
+      "api": "https://shayuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
