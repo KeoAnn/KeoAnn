@@ -59,17 +59,6 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
-    },                    
-    {
-    "key": "88直播",
-    "name": "🥇⚽️88✨┃FTY",
-    "type": 3,
-    "timeout": 15,
-    "searchable": 0,
-    "api": "csp_Sir88Guard",
-    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/FTY/spider.jar",
-    "style": {
-      "type": "list"
     },
     {
       "key": "csp_douban",
