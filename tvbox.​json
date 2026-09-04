@@ -70,7 +70,7 @@
     "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/FTY/spider.jar",
     "style": {
       "type": "list"
-    }
+    },
     {
       "key": "csp_douban",
       "name": "🐬豆瓣┃推荐",
