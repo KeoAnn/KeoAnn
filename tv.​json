@@ -460,7 +460,7 @@
       "key": "抖阴视频",
       "name": "🔞抖阴视频",
       "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
